@@ -1,5 +1,6 @@
-👋 Hi, I'm Nicolas
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nicolas;Future+Software+Developer;Learning+Python+and+Web+Development;Improving+Every+Day" />
+</h1>
 💻 Studying programming and web development
 🌱 Learning Python, Git and GitHub
 📚 Improving my English every day
