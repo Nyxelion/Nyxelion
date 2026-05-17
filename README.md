@@ -8,14 +8,13 @@
 🎬 Interested in technology, movies and learning new things
 ⚡ Constantly improving
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyxelion&show_icons=true&theme=radical"/>
+<div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxelion&layout=compact&theme=radical"/>
-</p>
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyxelion&theme=tokyonight&hide_border=true"/>
 
-##
+</div>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 
 <div>
 <a href="https://instagram.com/Nicollas_uzte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
